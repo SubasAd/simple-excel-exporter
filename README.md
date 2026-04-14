@@ -6,6 +6,7 @@ Made this util to export table directly into Excel.
 - Fast large dataset writes
 - Bounded queue for backpressure control
 - Manual XML writing (no DOM usage)
+- No external dependencies; XLSX is generated via direct ZIP + XML streaming
 
 ## Data types
 - STRING
